@@ -1,2 +1,8 @@
 myenv
 .vscode
+client-secret.json
+Procfile
+Procfile.windows
+requirements.txt
+runtime.txt
+_pycache
