@@ -1,4 +1,4 @@
-fcntl
+
 flask
 gunicorn
 gnewsclient
