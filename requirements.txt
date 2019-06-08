@@ -1,9 +1,0 @@
-
-flask
-gunicorn
-gnewsclient
-tmdbv3api
-twilio
-pymongo
-dnspython
-dialogflow
