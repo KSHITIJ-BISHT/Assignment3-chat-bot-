@@ -6,3 +6,4 @@ tmdbv3api
 twilio
 pymongo
 dnspython
+dialogflow
